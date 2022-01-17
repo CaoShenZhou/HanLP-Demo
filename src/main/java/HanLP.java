@@ -5,7 +5,7 @@ import com.hankcs.hanlp.corpus.io.IOUtil;
 
 import java.io.*;
 
-public class NLP {
+public class HanLP {
 
     /**
      * 分类文件夹路径
